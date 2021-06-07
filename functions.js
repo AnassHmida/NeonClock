@@ -296,7 +296,7 @@ var wa9t_message_secondary = "";
 
        case minutes<=59: 
           
-       if(minutes>=57){
+       if(minutes>57){
            wa9t_message_primary =  "";
            }
    
